@@ -1,1 +1,12 @@
-Q1: 20
+print("Q1: 20")
+print("Q2: 172.217.164.110")
+print("Q3: 37")
+print("Q4: 0")
+print("Q5: 168.150.28.56")
+print("Q6: 64")
+print("Q7: 26")
+print("Q8: 209.51.188.20")
+print("Q9: 8")
+print("Q10: 34134")
+print("Q11: 16140")
+print("Q12: 296")
