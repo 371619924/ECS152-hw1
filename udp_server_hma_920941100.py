@@ -45,7 +45,7 @@ def main():
         elapsed_time = end_time - start_time
         throughput = total_bytes / elapsed_time / 1024
 
-    # Required stdout output for the autograder.
+    
     print(f"Bytes received: {total_bytes}", flush=True)
 
     # Required UDP response to the client.
